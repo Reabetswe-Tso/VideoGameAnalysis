@@ -59,6 +59,8 @@ A boxplot highlighting the distribution of national sales across countries, spli
 
 Two side-by-side pie charts representing each country’s share of total sales.
 
+<img width="1194" height="608" alt="pie_chart" src="https://github.com/user-attachments/assets/5a0e1fad-fa79-4dad-abc8-183531a9ca91" />
+
 ---
 
 ### 4. Line Chart: Sales Over Time
