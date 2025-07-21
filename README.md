@@ -38,7 +38,7 @@ It includes the following columns:
 
 A bar plot showing national sales totals grouped by region and country.
 
-![Barplot](<img width="1549" height="779" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/b1dccb06-acae-42c1-ac41-e12ca20911cb" />
+(<img width="1549" height="779" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/b1dccb06-acae-42c1-ac41-e12ca20911cb" />
 )
 
 ---
@@ -47,7 +47,7 @@ A bar plot showing national sales totals grouped by region and country.
 
 A boxplot highlighting the distribution of national sales across countries, split by genre, including mean markers.
 
-![Boxplot](<img width="1222" height="797" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/2968c2f1-4114-406f-b4a3-1b4febfa697b" />
+<img width="1222" height="797" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/2968c2f1-4114-406f-b4a3-1b4febfa697b" />
 )
 
 ---
@@ -65,7 +65,8 @@ Two side-by-side pie charts representing each country’s share of total sales.
 
 A line plot showing how both national and global sales evolved over the years.
 
-<img width="1194" height="608" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/b2585ac1-1632-4835-acd2-dc6850e64543" />
+<img width="1273" height="804" alt="Line" src="https://github.com/user-attachments/assets/a98b35a5-57b5-49f8-a578-59631f8e9239" />
+
 
 
 ---
