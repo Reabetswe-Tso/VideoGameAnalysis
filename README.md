@@ -65,6 +65,9 @@ Two side-by-side pie charts representing each country’s share of total sales.
 
 A line plot showing how both national and global sales evolved over the years.
 
+<img width="1194" height="608" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/b2585ac1-1632-4835-acd2-dc6850e64543" />
+
+
 ---
 
 ## 📦 Libraries Used
