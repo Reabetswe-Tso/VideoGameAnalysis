@@ -38,7 +38,8 @@ It includes the following columns:
 
 A bar plot showing national sales totals grouped by region and country.
 
-![Barplot](#)
+![Barplot](<img width="1549" height="779" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/b1dccb06-acae-42c1-ac41-e12ca20911cb" />
+)
 
 ---
 
@@ -46,7 +47,8 @@ A bar plot showing national sales totals grouped by region and country.
 
 A boxplot highlighting the distribution of national sales across countries, split by genre, including mean markers.
 
-![Boxplot](#)
+![Boxplot](<img width="1222" height="797" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/2968c2f1-4114-406f-b4a3-1b4febfa697b" />
+)
 
 ---
 
